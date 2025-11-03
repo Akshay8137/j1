@@ -14,7 +14,7 @@
   <distributionManagement>
     <repository>
       <id>Akshay8137</id>
-      <url>https://maven.pkg.github.com/Akshay8137/maven-lab1-15-07-2025 </url>
+      <url>https://github.com/Akshay8137/j1.git</url>
     </repository>
   </distributionManagement>
 </project>
